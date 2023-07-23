@@ -16,7 +16,7 @@ const testimonials = [
     description: "I use this daily for generating new photos!",
   },
   {
-    name: "Micheal",
+    name: "Michael",
     avatar: "M",
     title: "CEO",
     description:
